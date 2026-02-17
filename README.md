@@ -1,58 +1,61 @@
-<h1 align="center">Hi 👋, I'm Devendra Gupta</h1>
-<h3 align="center">B.Tech Data Science Student | AI Enthusiast | Full-Stack Learner</h3>
+<h1 align="center">Hey there 👋, I'm Devendra</h1>
 
 <p align="center">
-  Turning ideas into projects, coffee into code, and bugs into lessons.
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Data+Science+Student;AI+Explorer;Full-Stack+Builder;Future+Tech+Founder" />
+</p>
+
+<p align="center">
+  <b>Building smart ideas into real-world tech products 🚀</b>
 </p>
 
 ---
 
-## 🚀 About Me
-- 🎓 B.Tech in Data Science at **DIT University, Dehradun**
-- 🤖 Interested in **Artificial Intelligence & Machine Learning**
-- 💻 Building **web apps, AI projects, and smart systems**
-- 📚 Currently learning **DSA, System Design, and AI agents**
-- 🚀 Dream: Start my own tech startup
+## 🧑‍💻 Who Am I?
+- 🎓 B.Tech Data Science student  
+- 🤖 Passionate about AI, startups, and real-world tech
+- 💻 Building web apps, AI tools, and smart systems
+- 🧠 Currently learning DSA, system design, and AI agents
+- 🚀 Goal: Launch my own tech startup
 
 ---
 
-## 🛠 Tech Stack
-**Languages**
-- Python
-- Java
-- C++
-- JavaScript
+## 🚀 Featured Projects
+| Project | Description | Tech |
+|--------|-------------|------|
+| 🧠 AI Medical Diagnosis | Expert system predicting diseases from symptoms | Python, AI |
+| 📈 TradingView Web App | Real-time charts with indicators | React, Tailwind |
+| 🏫 SmartClass | Smart classroom management platform | Full-stack |
 
-**Web Development**
-- HTML
-- CSS
-- React
-- Tailwind CSS
+---
 
-**Tools & Technologies**
-- Git & GitHub
-- Linux
-- VS Code
-- Firebase
+## 🛠 Tech Arsenal
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,react,html,css,tailwind,git,linux,vscode" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Devendra128&show_icons=true&theme=tokyonight" alt="github stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Devendra128&theme=tokyonight" alt="streak stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Devendra128&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Devendra128&theme=tokyonight" height="170"/>
 </p>
 
 ---
 
-## 🌱 Current Focus
+## 🌱 Currently Learning
 - Data Structures & Algorithms
-- AI and Machine Learning projects
-- Full-stack development
-- Building real-world applications
+- AI & Machine Learning
+- System Design
+- Scalable Web Applications
+
+---
+
+## 🎯 2026 Goals
+- 🚀 Build 10+ real-world projects
+- 💼 Get a top software engineering internship
+- 🌍 Contribute to open source
+- 🧠 Launch a startup MVP
 
 ---
 
@@ -61,4 +64,6 @@
 
 ---
 
-⭐ *Always learning, always building.*
+<p align="center">
+  ⚡ <i>Code. Learn. Build. Repeat.</i>
+</p>
