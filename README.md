@@ -34,6 +34,11 @@
 </p>
 
 ---
+## 🛠️ Languages Used
+![JavaScript](https://img.shields.io/badge/JavaScript-60%25-yellow)
+![HTML](https://img.shields.io/badge/HTML-25%25-orange)
+![CSS](https://img.shields.io/badge/CSS-15%25-blue)
+
 
 ## 📊 GitHub Stats
 <p align="center">
